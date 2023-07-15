@@ -8,7 +8,7 @@
 
  .bannerBgImage {
     height: 100vh;
-    background: url("/images/Banner.jpg");
+    background: url("file:///C:/Users/punee/OneDrive/Desktop/PORTFOLIO/images/Banner.jpg");
     background-size: cover;
     position: relative;
  }
